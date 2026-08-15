@@ -269,8 +269,9 @@
         </div>
 
         <!-- Replace YOUR_FORMSPREE_ID with your Formspree form ID to activate submissions. -->
-        <form class="contact-form" id="contactForm" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
-          <input type="hidden" name="_subject" value="New portfolio enquiry from Vijay Balaji website">
+        <form class="contact-form" id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value="e67cdc3c-86e5-4ab7-ad96-9b3bb67fa677">
+          <input type="hidden" name="_subject" value="New Portfolio Contact">
           <input type="hidden" name="_replyto" id="replyTo">
           <label>Name<input name="name" type="text" placeholder="Your name" required></label>
           <label>Email<input name="email" type="email" placeholder="you@example.com" required></label>
