@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#e9eef1"/><rect x="55" y="45" width="1090" height="610" rx="28" fill="#fff"/>
+<text x="100" y="110" font-family="Arial" font-size="30" font-weight="800" fill="#1f2933">STORE</text><text x="970" y="110" font-family="Arial" font-size="20" fill="#65727e">Cart · Account</text>
+<text x="100" y="220" font-family="Arial" font-size="64" font-weight="800" fill="#1f2933">Simple shopping.</text>
+<rect x="100" y="275" width="290" height="210" rx="20" fill="#d9e2e8"/><rect x="455" y="275" width="290" height="210" rx="20" fill="#c9d5dd"/><rect x="810" y="275" width="290" height="210" rx="20" fill="#b9c7d0"/>
+<text x="100" y="560" font-family="Arial" font-size="22" fill="#65727e">Products · Collections · Checkout</text>
+</svg>

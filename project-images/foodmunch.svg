@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#f7f0e7"/><rect x="55" y="45" width="1090" height="610" rx="28" fill="#fff"/>
+<circle cx="110" cy="92" r="10" fill="#e4572e"/><text x="145" y="105" font-family="Arial" font-size="30" font-weight="700" fill="#222">FoodMunch</text>
+<text x="100" y="215" font-family="Arial" font-size="62" font-weight="800" fill="#222">Delicious food.</text><text x="100" y="280" font-family="Arial" font-size="62" font-weight="800" fill="#222">Delivered fast.</text>
+<rect x="100" y="330" width="170" height="52" rx="12" fill="#e4572e"/><text x="135" y="364" font-family="Arial" font-size="20" font-weight="700" fill="white">Order Now</text>
+<circle cx="900" cy="350" r="180" fill="#f4c48b"/><circle cx="900" cy="350" r="120" fill="#e4572e"/><circle cx="900" cy="350" r="65" fill="#ffd166"/>
+</svg>

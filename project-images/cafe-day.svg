@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#eee7dc"/><rect x="55" y="45" width="1090" height="610" rx="28" fill="#332a25"/>
+<text x="100" y="115" font-family="Arial" font-size="26" font-weight="700" fill="#e8d7bc">CAFE DAY</text>
+<text x="100" y="250" font-family="Arial" font-size="70" font-weight="800" fill="#fff">Good coffee.</text><text x="100" y="325" font-family="Arial" font-size="70" font-weight="800" fill="#fff">Good mood.</text>
+<rect x="100" y="380" width="170" height="52" rx="12" fill="#e8d7bc"/><text x="135" y="414" font-family="Arial" font-size="20" font-weight="700" fill="#332a25">Explore</text>
+<ellipse cx="900" cy="390" rx="210" ry="145" fill="#6e4c3a"/><ellipse cx="900" cy="360" rx="150" ry="105" fill="#b98b64"/><ellipse cx="900" cy="350" rx="100" ry="65" fill="#332a25"/>
+</svg>
